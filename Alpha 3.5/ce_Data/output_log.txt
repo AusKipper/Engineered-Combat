@@ -1,0 +1,281 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\ProBuilderCore.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\ProBuilderCore.dll into Unity Child Domain
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\ProBuilderMeshOps.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\ProBuilderMeshOps.dll into Unity Child Domain
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\ProCore.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\ProCore.dll into Unity Child Domain
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\SixBySeven.dll (this message is harmless)
+Loading G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\SixBySeven.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\ce_Data\Managed\System.dll (this message is harmless)
+Profiler is only supported with Pro License
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Profiler/ProfilerConnection.cpp Line: 218)
+
+UnloadTime: 0.188522 ms
+System memory in use before: 12.5 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.4 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1483.
+Total: 2.162741 ms (FindLiveObjects: 0.111240 ms CreateObjectMapping: 0.020784 ms MarkObjects: 1.170655 ms  DeleteObjects: 0.014636 ms)
+
+Damage: 78.86299
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 80.41154
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 86.8969
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 88.68101
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 92.50786
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 96.18564
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+UnloadTime: 0.571715 ms
+System memory in use before: 13.2 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1718.
+Total: 2.452258 ms (FindLiveObjects: 0.097481 ms CreateObjectMapping: 0.020198 ms MarkObjects: 1.427093 ms  DeleteObjects: 0.141684 ms)
+
+Damage: 78.62726
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 80.18291
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 80.93169
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 84.395
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 92.2998
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.16238
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 96.05896
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 96.05142
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 90.45213
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 90.60867
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+UnloadTime: 1.130843 ms
+System memory in use before: 13.2 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.7 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 2.909220 ms (FindLiveObjects: 0.199353 ms CreateObjectMapping: 0.044203 ms MarkObjects: 1.498228 ms  DeleteObjects: 0.249704 ms)
+
+UnloadTime: 0.625286 ms
+System memory in use before: 13.3 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 13.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1718.
+Total: 4.246150 ms (FindLiveObjects: 0.184131 ms CreateObjectMapping: 0.036299 ms MarkObjects: 2.492948 ms  DeleteObjects: 0.242093 ms)
+
+Damage: 90.49982
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 90.44865
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.12273
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.12783
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 80.8598
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 86.12312
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.14256
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.14256
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.27176
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+Damage: 94.27489
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+Projectile:FixedUpdate() (at G:\BuNs\Important\Very Important\Game Idea\Alpha 3.5\Assets\Scripts\Weapon\Projectile.cs:42)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+UnloadTime: 0.721304 ms
+System memory in use before: 13.2 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.7 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 3.701952 ms (FindLiveObjects: 0.138757 ms CreateObjectMapping: 0.030151 ms MarkObjects: 2.074334 ms  DeleteObjects: 0.406026 ms)
+
+Waiting for finish
